@@ -2,7 +2,8 @@
 ## Purpose of this analysis：
 Lousie would like to know how different campaigns fared in relation to their launch date and their funding goal. We will use the kickstarter dataset to visualize campaign outcomes based on the launch dates and the funding goals and provide a written report based on the analysis.
 ## Analysis and Challenges:
-By using the countifs function, I recognized the number of successful and failed campaigns for each dollar-amount range. Then by creating a line chart, we can easily visualize the trend between the different amount of goal verse the number of successful outcomes. Then we can identify the relationship between the goal amount and the outcome of the campaigns. 
+By using the countifs function, I recognized the number of successful and failed campaigns for each dollar-amount range. Then by creating a line chart, we can easily visualize the trend between the different amount of goal verse the number of successful outcomes. Then we can identify the relationship between the goal amount and the outcome of the campaigns.
+
 The challenges I am facing is to identify the goal amount follow the dollar-amount range. I choose to use if function to identify them.
 ## Results:
 ###### Conclusions from theater outcomes by launch date
