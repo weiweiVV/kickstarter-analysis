@@ -15,4 +15,4 @@ The challenges I am facing is to identify the goal amount follow the dollar-amou
 ###### limitations of this dataset
 The result from outcomes by launch date and outcomes based on goals don’t show strong trends between successful and failed.
 ###### other possible tables
-
+We can have a line chart between the campaign’s outcome vs. the subcategories. 
